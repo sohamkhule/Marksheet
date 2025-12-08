@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+openpyxl      # to read .xlsx
+matplotlib    # optional for charts
+

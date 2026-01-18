@@ -85,14 +85,29 @@ Supports:
 └── sample_marksheet/ # Example data files (optional) 
 
 
+
+📂 Sample Input Data
+
+To make testing easier, sample marksheet files are included in the repository.
+
+Location:
+
+data/
+
+
+Included file:
+
+marksheet.csv – Example school marksheet containing roll numbers, student names, subject marks, and attendance.
+
+You can directly upload this file in the application to test all features without preparing your own dataset.
 ---
 
 ## 🔧 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/marksheet-insights.git
-cd marksheet-insights
+git clone https://github.com/sohamkhule/Marksheet.git
+cd Marksheet
 
 
 3️⃣ Install Dependencies

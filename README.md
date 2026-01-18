@@ -149,6 +149,9 @@ Step 4: AI Insights
 
 LLM creates a narrative report using context data.
 
+**DEMO VEDIO LINK** 
+https://drive.google.com/file/d/1dUEflQcNEZ-NsvoL2UbRZs8AZfPGfrn1/view?usp=drive_link
+
 🧑‍💻 Author
 
 Soham Khule
